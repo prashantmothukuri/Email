@@ -2,3 +2,4 @@ some text first
 edit in branc 1
 edit in branch 2
 edit in master
+update after adding folder
