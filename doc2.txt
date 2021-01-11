@@ -2,3 +2,4 @@ Some text first
 Some text second
 edit in branch 1
 edit in branch 2
+edit in master
